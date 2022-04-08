@@ -20,5 +20,12 @@ http://localhost:8080/earthquakes?days=30&countryCode=TR
 http://localhost:8080
 ```
 
+## Successful Result
+
+![result example](https://github.com/basakozdemir/earthquake-consumer/blob/master/example/result.png)
+
+## Not Found Result
+![error example](https://github.com/basakozdemir/earthquake-consumer/blob/master/example/error.png)
+
 
 
